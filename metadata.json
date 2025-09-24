@@ -1,0 +1,5 @@
+{
+  "name": "Polyglot Translator",
+  "description": "A powerful translation tool that detects if the input text is in Japanese, Traditional Chinese, English, or Korean, and translates it into the other three languages using the Gemini API.",
+  "requestFramePermissions": []
+}
